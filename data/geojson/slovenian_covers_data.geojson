@@ -1,0 +1,10 @@
+data={
+"type": "FeatureCollection",
+"name": "slovenian_covers_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 46.559167692599999, "lng": 15.637242841300001, "Place": "Maribor", "Country": "Slovenia", "Language": "Slovenian", "Year": 1955, "Translator": "France Borko & Ivan Dolenc", "img": "https://raw.githubusercontent.com/digitalkoine/slovenian_storymap/main/slovenian/1955-Borko-_-Dolenc.jpg", "Title": "Sirota iz Lowooda", "Publisher": "VeËer", "Address": "Svetozarevska ulica 14. Maribor. Slovenia", "Comments": "-" }, "geometry": { "type": "Point", "coordinates": [ 15.637242841300001, 46.559167692599999 ] } },
+{ "type": "Feature", "properties": { "lat": 46.664337402599998, "lng": 16.164106144800002, "Place": "Murska Sobota", "Country": "Slovenia", "Language": "Slovenian", "Year": 1970, "Translator": "Boûena Legiöa-Velikonja", "img": "https://raw.githubusercontent.com/digitalkoine/slovenian_storymap/main/slovenian/1970%20Legis%CC%8Ca-Velikonja.jpg", "Title": "Sirota iz Lowooda", "Publisher": "Pomurska zaloûba", "Address": "Lendavska ulica 1. Murska Sobota. Slovenia", "Comments": "-" }, "geometry": { "type": "Point", "coordinates": [ 16.164106144800002, 46.664337402599998 ] } },
+{ "type": "Feature", "properties": { "lat": 46.055374587800003, "lng": 14.512802286599999, "Place": "Ljubljana", "Country": "Slovenia", "Language": "Slovenian", "Year": 1991, "Translator": "Boûena Legiöa-Velikonja", "img": "https://raw.githubusercontent.com/digitalkoine/slovenian_storymap/main/slovenian/1991%20Legis%CC%8Ca-Velikonja.jpg", "Title": "Jane Eyre I", "Publisher": "Založništvo slovenske knjige", "Address": "Slomškova ulica 18. Ljubljana. Slovenia", "Comments": "-" }, "geometry": { "type": "Point", "coordinates": [ 14.512802286599999, 46.055374587800003 ] } }
+]
+}

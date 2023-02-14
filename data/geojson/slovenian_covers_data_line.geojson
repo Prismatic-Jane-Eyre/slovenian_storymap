@@ -1,0 +1,8 @@
+line={
+"type": "FeatureCollection",
+"name": "slovenian_covers_data_line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "begin": "2", "end": "4" }, "geometry": { "type": "LineString", "coordinates": [ [ 15.637242841300001, 46.559167692599999 ], [ 16.164106144800002, 46.664337402599998 ], [ 14.512802286599999, 46.055374587800003 ] ] } }
+]
+}
